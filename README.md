@@ -1,6 +1,4 @@
 # task12-NumPy-Aggregations-and-Statistics
-# NumPy Aggregations and Statistics
-
 ## Task Overview
 Use NumPy functions to calculate common statistical measures on a numerical dataset. This task helps build basic numerical analysis skills using Python and NumPy.
 
